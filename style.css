@@ -192,14 +192,14 @@
     .section-2 {
         display: grid;
         grid-template-columns: 1fr;
-        padding-right: 29px;
-        padding-left: 29px;
+        padding-right: 3%;
+        padding-left: 3%;
         padding-bottom: 20px;
         padding-top: 20px;
         width: 260px;
     }
     .images {
-        width: 260px;
+        width: 94%;
         height: 300px;
     }
     .section-4 {
